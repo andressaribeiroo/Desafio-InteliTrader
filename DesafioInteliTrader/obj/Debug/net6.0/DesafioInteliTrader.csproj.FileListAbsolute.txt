@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\bin\Debug\net6.0\DesafioInteliTrader.exe
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\bin\Debug\net6.0\DesafioInteliTrader.dll
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\DesafioInteliTrader.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\DesafioInteliTrader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\DesafioInteliTrader.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\DesafioInteliTrader.AssemblyInfo.cs
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\DesafioInteliTrader.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\DesafioInteliTrader.dll
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\refint\DesafioInteliTrader.dll
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\DesafioInteliTrader.pdb
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\bin\Debug\net6.0\DesafioInteliTrader.deps.json
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\bin\Debug\net6.0\DesafioInteliTrader.runtimeconfig.json
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\bin\Debug\net6.0\DesafioInteliTrader.pdb
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\DesafioInteliTrader.genruntimeconfig.cache
+C:\Users\andre\source\repos\DesafioInteliTrader\DesafioInteliTrader\obj\Debug\net6.0\ref\DesafioInteliTrader.dll
